@@ -1,0 +1,6 @@
+project_id         = "gcp-test-405016"
+region             = "us-central1"
+credentials_file   = "/home/jose/Descargas/gcp-test-405016-28b3299caa80.json"
+vpc_name           = "vpc-para-el-animal-del-yarel"
+subnet1_name       = "subnet1"
+subnet2_name       = "subnet2"
